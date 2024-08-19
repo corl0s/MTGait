@@ -39,5 +39,6 @@ NOTE: Make sure to update the dataset_root path in `./config/setup.yaml`.
 * --eval_type Specfies the evaluation type
 
 
+This codebase uses support modules modified from OpenGait: https://github.com/ShiqiYu/OpenGait/tree/master.
 
 
